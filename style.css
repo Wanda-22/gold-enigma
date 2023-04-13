@@ -1,0 +1,19 @@
+body {
+    background-image: conic-gradient(red,RoyalBlue,Fuchsia,Gold,Aqua,DeepPink,Chartreuse,OrangeRed);
+    border: 9px dashed black;
+    color: aliceblue;
+}
+button:active {
+  background-color: royalblue;
+  box-shadow: 5px 5px goldenrod;
+  transform: translateY(15px);
+}
+button{
+    background-color: royalblue;
+    font-size: 25px;
+    border-radius: 150px;
+}
+canvas {
+  border: 20px double darkblue;
+  box-shadow: 40px 40px 40px greenyellow;
+}
